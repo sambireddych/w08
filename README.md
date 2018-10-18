@@ -1,0 +1,1 @@
+This project is about how to call AJAX Rest
